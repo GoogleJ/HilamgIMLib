@@ -1,0 +1,2 @@
+include  ':IMLib'
+rootProject.name = 'hilamgIMLib'
